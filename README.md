@@ -8,7 +8,7 @@ El microcontrolador de Arduino posee lo que se llama una interfaz de entrada, qu
 
 También cuenta con una interfaz de salida, que es la que se encarga de llevar la información que se ha procesado en el Arduino a otros periféricos. Estos periféricos pueden ser pantallas o altavoces en los que reproducir los datos procesados, pero también pueden ser otras placas o controladores.
 
-![f1]()
+![f1](https://github.com/JorgeGallegos99/Tutorial-para-simular-arduino-Tutorial-para-simular-arduino-/blob/master/IMG/f1trabajoExtraarduino.jpg)
 
 **Componentes de video**
 
