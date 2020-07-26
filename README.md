@@ -18,3 +18,11 @@ Un sistema de distribución de vídeo dentro de una casa, un edificio, un centro
 Puede apreciarse la presencia de señales de vídeo analógicas y digitales además de una variedad de dispositivos que trabajan en distintos formatos. Un dispositivo ruteador de las diferentes entradas de vídeo permite distribuir las señales de entretenimiento y de vídeo vigilancia a cualquiera de las pantallas de salida. El tipo de conectores y cables para la conexión depende de las necesidades de ancho de banda para cada tipo de señal y del formato a utilizar. En este capítulo se describen los principales tipos de conectores, los cables y los convertidores para la transmisión de señal de vídeo.
 
 https://www.xataka.com/basics/que-arduino-como-funciona-que-puedes-hacer-uno
+
+https://programarfacil.com/podcast/proyectos-arduino-para-iniciarse/
+
+https://tinkerman.cat/tag/esp8266
+
+https://www.youtube.com/watch?v=q5z0n7xVBwU
+
+https://www.youtube.com/watch?v=spnIO26FdJ8
